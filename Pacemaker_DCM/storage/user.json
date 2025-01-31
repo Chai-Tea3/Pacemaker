@@ -1,0 +1,191 @@
+[
+ {
+  "username": "admin",
+  "password": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+  "pacingmode": "5",
+  "parameters": {
+   "LRL": 50.0,
+   "URL": 50.0,
+   "AA": 0.5,
+   "APW": 0.67,
+   "ARP": 357.6,
+   "VA": 3.5,
+   "VPW": 0.69,
+   "VRP": 150.0
+  }
+ },
+ {
+  "username": "c",
+  "password": "18ac3e7343f016890c510e93f935261169d9e3f565436429830faf0934f4f8e4",
+  "pacingmode": "1",
+  "parameters": {
+   "LRL": 95.0,
+   "URL": 120.0,
+   "AA": 3.5,
+   "APW": 16.0,
+   "ARP": 250.0,
+   "VA": 3.5,
+   "VPW": 15.0,
+   "VRP": 320.0
+  }
+ },
+ {
+  "username": "",
+  "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "pacingmode": "5",
+  "parameters": {
+   "LRL": 60.0,
+   "URL": 120.0,
+   "AA": 3.5,
+   "APW": 0.4,
+   "ARP": 250.0,
+   "VA": 3.5,
+   "VPW": 0.4,
+   "VRP": 320.0
+  }
+ },
+ {
+  "username": "d",
+  "password": "8e35c2cd3bf6641bdb0e2050b76932cbb2e6034a0ddacc1d9bea82a6ba57f7cf",
+  "pacingmode": "VVI",
+  "parameters": {
+   "LRL": 60.0,
+   "URL": 120.0,
+   "AA": 3.5,
+   "APW": 0.4,
+   "ARP": 250.0,
+   "AS": 0.0,
+   "VA": 3.5,
+   "VPW": 0.4,
+   "VRP": 320.0,
+   "VS": 0.0,
+   "HRL": 0.0,
+   "HINT": 0.0,
+   "AT": 15.0,
+   "REAC": 10.0,
+   "RES": 8.0,
+   "REC": 5.0,
+   "MSR": 60.0
+  }
+ },
+ {
+  "username": "x",
+  "password": "a1fce4363854ff888cff4b8e7875d600c2682390412a8cf79b37d0b11148b0fa",
+  "pacingmode": "IDLE",
+  "parameters": {
+   "LRL": 60.0,
+   "URL": 120.0,
+   "AA": 3.5,
+   "APW": 0.4,
+   "ARP": 250.0,
+   "AS": 0.0,
+   "VA": 3.5,
+   "VPW": 0.4,
+   "VRP": 320.0,
+   "VS": 0.0,
+   "HRL": 0.0,
+   "HINT": 0.0,
+   "AT": 15.0,
+   "REAC": 10.0,
+   "RES": 8.0,
+   "REC": 5.0,
+   "MSR": 60.0
+  }
+ },
+ {
+  "username": "test",
+  "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+  "pacingmode": "IDLE",
+  "parameters": {
+   "LRL": 60.0,
+   "URL": 120.0,
+   "AA": 3.5,
+   "APW": 0.4,
+   "ARP": 250.0,
+   "AS": 0.0,
+   "VA": 3.5,
+   "VPW": 0.4,
+   "VRP": 320.0,
+   "VS": 0.0,
+   "HRL": 0.0,
+   "HINT": 0.0,
+   "AT": 15.0,
+   "REAC": 10.0,
+   "RES": 8.0,
+   "REC": 5.0,
+   "MSR": 60.0
+  }
+ },
+ {
+  "username": "a",
+  "password": "3e23e8160039594a33894f6564e1b1348bbd7a0088d42c4acb73eeaed59c009d",
+  "pacingmode": "VOOR",
+  "parameters": {
+   "LRL": 112.0,
+   "URL": 153.0,
+   "AA": 3.5,
+   "APW": 1.0,
+   "ARP": 250.0,
+   "AS": 0.0,
+   "VA": 1.7,
+   "VPW": 16.0,
+   "VRP": 300.6,
+   "VS": 0.3,
+   "HRL": 0.0,
+   "HINT": 89.2,
+   "AT": 20.7,
+   "REAC": 15.1,
+   "RES": 8.0,
+   "REC": 8.7,
+   "MSR": 1.3
+  }
+ },
+ {
+  "username": "0",
+  "password": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+  "pacingmode": "AOO",
+  "parameters": {
+   "LRL": 111.0,
+   "URL": 50.0,
+   "AA": 0.5,
+   "APW": 1.0,
+   "ARP": 215.0,
+   "AS": 0.0,
+   "VA": 1.3,
+   "VPW": 1.0,
+   "VRP": 150.0,
+   "VS": 0.0,
+   "HRL": 0.0,
+   "HINT": 160.0,
+   "AT": 5.0,
+   "REAC": 10.0,
+   "RES": 1.0,
+   "REC": 2.0,
+   "MSR": 50.0
+  }
+ },
+ {
+  "username": "Guest User",
+  "password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+  "pacingmode": "IDLE",
+  "parameters": {
+   "LRL": 60.0,
+   "URL": 120.0,
+   "AA": 3.5,
+   "APW": 0.4,
+   "ARP": 250.0,
+   "AS": 0.0,
+   "VA": 3.5,
+   "VPW": 0.4,
+   "VRP": 320.0,
+   "VS": 0.0,
+   "HRL": 0.0,
+   "HINT": 0.0,
+   "AT": 15.0,
+   "REAC": 10.0,
+   "RES": 8.0,
+   "REC": 5.0,
+   "MSR": 60.0
+  }
+ }
+]
